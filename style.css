@@ -1,0 +1,15 @@
+.dice {
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 1em;
+  }
+  
+  #dice-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
